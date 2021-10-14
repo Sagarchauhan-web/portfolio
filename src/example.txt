@@ -1,0 +1,15 @@
+/// netlify
+https://chatings.netlify.app/
+https://forkifyreact.netlify.app/
+https://smartie-events.netlify.app/
+https://crown-cloths.netlify.app/
+https://strm.netlify.app/
+https://glassmorp.netlify.app/
+https://virtualize-bank.netlify.app/
+https://expense-t.netlify.app/
+https://trilloa.netlify.app/
+https://natoursa.netlify.app/
+https://omnifooda.netlify.app/
+
+///// github
+https://sagarchauhan-web.github.io/nexter/
